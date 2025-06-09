@@ -1,5 +1,6 @@
 # Palavras-Cruzadas
 Jogo de palavras cruzadas desenvolvido em Java.
+
 Projeto composto por java tanto no back end como no front end, para o front foi utilizado java swing.
 # Funcionalidade do Sistema
 Inicialmente o desenvolvedor se identifica, depois ele é responsável por criar o tamanho da matriz e inserir as palavras informando a direção, a coluna e a linha que a palavra deve ser inserida.
